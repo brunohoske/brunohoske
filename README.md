@@ -22,5 +22,5 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/brunohoske/brunohoske/blob/output/github-snake.svg)
+![snake gif](https://github.com/brunohoske/brunohoske/blob/output/github-snake-dark.svg?palette=github-dark)
 
