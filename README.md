@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: C#,MYSQL,.NET,ASP.NET,BLAZOR,HTML,CSS
+  🦄 Linguagens: C#, MYSQL, .NET, ASP.NET, BLAZOR
 </p>
 
 <p align="left">
